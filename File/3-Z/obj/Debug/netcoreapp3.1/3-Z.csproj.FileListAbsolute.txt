@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.exe
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.deps.json
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.runtimeconfig.json
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\bin\Debug\netcoreapp3.1\3-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.dll
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.pdb
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.genruntimeconfig.cache
+C:\Users\Admin\Desktop\КПиЯП практика\File\3-Z\obj\Debug\netcoreapp3.1\3-Z.csproj.AssemblyReference.cache
